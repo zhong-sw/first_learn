@@ -6,3 +6,5 @@
 千山鸟飞绝，万径人踪灭。孤舟蓑笠翁，
 
 分支上修改：独钓寒江雪。
+
+Creating a new branch is quick AND simple
