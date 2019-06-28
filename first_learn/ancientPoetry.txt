@@ -8,7 +8,7 @@
 分支上修改：独（只羡鸳鸯不羡仙，仙不孤）钓寒江雪，。
 
 
-Creating a new branch is quick AND simple
+Creating a new branch is quick AND simple issue-101
 
 dev -千呼万唤始出来，犹抱琵琶半遮面。车上忘带方便面
 
